@@ -1,0 +1,15 @@
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\PraticaOrientacaoObj.csproj.AssemblyReference.cache
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\PraticaOrientacaoObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\PraticaOrientacaoObj.AssemblyInfoInputs.cache
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\PraticaOrientacaoObj.AssemblyInfo.cs
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\PraticaOrientacaoObj.csproj.CoreCompileInputs.cache
+C:\Dev\PraticaOrientacaoObj\bin\Debug\net7.0\PraticaOrientacaoObj.exe
+C:\Dev\PraticaOrientacaoObj\bin\Debug\net7.0\PraticaOrientacaoObj.deps.json
+C:\Dev\PraticaOrientacaoObj\bin\Debug\net7.0\PraticaOrientacaoObj.runtimeconfig.json
+C:\Dev\PraticaOrientacaoObj\bin\Debug\net7.0\PraticaOrientacaoObj.dll
+C:\Dev\PraticaOrientacaoObj\bin\Debug\net7.0\PraticaOrientacaoObj.pdb
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\PraticaOrientacaoObj.dll
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\refint\PraticaOrientacaoObj.dll
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\PraticaOrientacaoObj.pdb
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\PraticaOrientacaoObj.genruntimeconfig.cache
+C:\Dev\PraticaOrientacaoObj\obj\Debug\net7.0\ref\PraticaOrientacaoObj.dll
