@@ -1,6 +1,8 @@
 using Balta.SharedContext;
 using System.Collections.Generic;
 using Balta.NotificationContext;
+using System.Linq;
+
 
 namespace Balta.SubscriptionContext
 {
@@ -30,6 +32,6 @@ namespace Balta.SubscriptionContext
             Subscriptions.Add(subscription);
         }
 
-        public bool IsPremium => Subscription.Any(x => !x.IsInactive);
+        public bool IsPremium => Subscriptions.Any(x => !x.IsInactive);
     }
 }

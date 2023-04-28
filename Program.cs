@@ -57,7 +57,7 @@ namespace PraticaOrientacaoObj
                 }
             }
 
-            var payPalSubscription = new PayPaSubscription();
+            var payPalSubscription = new PayPalSubscription();
             var student = new Student();
 
             student.CreateSubscription(payPalSubscription);
